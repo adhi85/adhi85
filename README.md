@@ -8,15 +8,9 @@
 
 - 🌱 I’m currently learning **Django, NestJS, Kubernetes, AWS**
 
-- 👨‍💻 All of my projects are available [here](https://portfolio-adhi-rust.vercel.app/project).
-
 - 📝 I regularly write articles [here](https://www.linkedin.com/in/adhithyasankar/).
 
-- 💬 Ask me about **Python Backend Frameworks**
-
-- 📫 How to reach me **adhithya8580@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LKyrGGVS3XkIS_RiLgKgEYXCslLZLpkO/view?usp=drive_link).
+- 📫 How to reach me **adimuthanikatt@gmail.com**
 
 - ⚡ Fun fact **I am a Gym-Rat 🏋️‍♂️**
 
